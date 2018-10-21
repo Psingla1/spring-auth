@@ -1,2 +1,2 @@
-# gamer-core
-A Spring based gaming platform
+# spring-auth
+Authentication setup using spring boot
